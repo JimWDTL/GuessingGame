@@ -7,6 +7,7 @@ def congratulations(name):
     print "Congratulations " + name
 
 ## Here is a very important comment!
+## This comment is even more important
 guesses_made = 0
 name = raw_input('Hello! What is your name?\n')
 Introduction.greetings(name)

@@ -10,6 +10,7 @@ def congratulations(name):
 ## This comment is even more important
 ## This comment is Hilarious!
 ## This comment is merely foolish
+## This comment is inane
 
 guesses_made = 0
 name = raw_input('Hello! What is your name?\n')

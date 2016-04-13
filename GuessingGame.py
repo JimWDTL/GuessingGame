@@ -8,6 +8,8 @@ def congratulations(name):
 
 ## Here is a very important comment!
 ## This comment is even more important
+## This comment is Hilarious!
+
 guesses_made = 0
 name = raw_input('Hello! What is your name?\n')
 Introduction.greetings(name)

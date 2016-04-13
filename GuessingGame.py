@@ -13,6 +13,8 @@ def congratulations(name):
 ## This comment is inane
 ## This comment leaves me lost for words
 
+## A comment for jims_test
+
 guesses_made = 0
 name = raw_input('Hello! What is your name?\n')
 Introduction.greetings(name)

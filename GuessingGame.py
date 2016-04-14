@@ -15,6 +15,8 @@ def congratulations(name):
 
 ## A comment for jims_test
 
+## A comment , yet another!
+
 guesses_made = 0
 name = raw_input('Hello! What is your name?\n')
 Introduction.greetings(name)
